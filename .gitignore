@@ -1,0 +1,8 @@
+*.cfg
+*.json
+
+/__pycache__
+/.vscode
+/audio
+/Lib
+/Scripts
